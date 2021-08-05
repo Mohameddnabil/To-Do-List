@@ -1,0 +1,19 @@
+#The_header{
+    background-color: green;
+    font-weight: bold;
+    font-size: 60px;
+    margin-top: auto;
+    padding-left: 35px;
+    padding-top: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    height: 150px;
+    
+}
+#Label{
+    font-size: 45px;
+    font-weight: bold;
+    padding-left: 50px;
+}
+div{
+    margin-left: 60px;
+}
